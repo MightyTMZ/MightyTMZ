@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tom Zhang</h1>
-<h3 align="center">AI/ML | Electrical Engineering | Full Stack Development | Technical Author</h3>
+<h3 align="center">AI, ML, Electrical Engineer | Full Stack Development | Technical Author</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mightytmz&label=Profile%20views&color=0e75b6&style=flat" alt="mightytmz" /> </p>
 
 - 🔭 I’m currently working on [OrbitView](https://www.orbitview.net/)
 
-- 🌱 I’m currently learning **GPU programming, Web3 hardware optimization, rocket science, LLMs for chip design**
+- 🌱 I’m currently learning **GPU programming, Web3 hardware optimization, rocket science, AI agents, LLMs for chip design**
 
 - 👨‍💻 All of my projects are available at [https://www.tomzhang.info/my-works](https://www.tomzhang.info/my-works)
 
