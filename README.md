@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [OrbitView](https://www.orbitview.net/)
 
-- 🌱 I’m currently learning **GPU programming, Web3 hardware optimization, rocket science, AI agents, LLMs for chip design**
-
 - 👨‍💻 All of my projects are available at [https://www.tomzhang.info/my-works](https://www.tomzhang.info/my-works)
 
 - 📫 How to reach me **tom.zhang.career@hotmail.com**
